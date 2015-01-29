@@ -1,4 +1,7 @@
 {
 	"name": "andreychumak/simplify-php",
-	"version": "1.0.1"
+	"version": "1.0.1",
+    "autoload": {
+	    "classmap": ["Simplify.php"]
+	}
 }
